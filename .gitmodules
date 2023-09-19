@@ -1,0 +1,3 @@
+[submodule "modules/terraform-aci-aaa"]
+	path = modules/terraform-aci-aaa
+	url = https://github.com/netascode/terraform-aci-aaa.git
